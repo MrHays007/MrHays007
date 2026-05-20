@@ -77,4 +77,5 @@ A beginner-friendly cybersecurity learning repository documenting secure coding 
 🎯 My Goal
 
 I am building toward the intersection of:
+
 Cybersecurity + Software Development + AI + DevSecOps
